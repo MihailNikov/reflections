@@ -1,0 +1,29 @@
+How did	viewing a diff between
+helps you spot the bug?
+You easily see where is the 
+difference between the files
+and you do not have to scan the 
+entire file with your eyes.
+
+Where do versions come from?
+Versions are usefull for tracking
+changes in documents.
+
+Why do you think some version control systems, 
+like Git, allow saving multiple files in 
+one commit, while others, like Google Docs, 
+treat each file separately?
+They allow it because it is needed. 
+Some projects may be comprised of multiple files.
+
+How can you use the commands git log 
+and git diff to view the history of files?
+With git log you view all recent commits 
+With git diff you see the particular changes to
+the files that were made with the commits.
+
+How might using version control make 
+you more confident to make changes 
+that could break something?
+It give you access to older versions
+of your code. 
