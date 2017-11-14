@@ -1,6 +1,6 @@
 What happens when you initialize a repository?
 Why do you need to do it?
-When you initialise a new git repository
+-When you initialise a new git repository
 a .git folder is created in that repository.
 It gives you the ability to control versions.
 You need it in order to be able to control
@@ -9,7 +9,7 @@ the versions of you projects.
 How is the staging area different from
 the working directory and the repository?
 What value do you think it offers?
-Staging area is different from
+-Staging area is different from
 working directory because it contains
 files changed in the working directory
 and not changed in the repository
@@ -17,3 +17,7 @@ and not changed in the repository
 How can you use the staging area to
 make sure you have one commit per
 logical change?
+-You should probably add all files affected by
+the logical change simultaneously to the
+staging area, and then commit them
+simultaneously.
