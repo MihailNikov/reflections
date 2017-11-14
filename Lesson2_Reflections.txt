@@ -21,3 +21,10 @@ logical change?
 the logical change simultaneously to the
 staging area, and then commit them
 simultaneously.
+
+What are some situations when branches would be
+helpful in keeping your history organized?
+How would branches help?
+-Branches would be helpful when you need to
+test changes before you add them to production
+environment.
