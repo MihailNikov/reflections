@@ -42,3 +42,11 @@ diagram the way we do?
 - the result of merging two branches together
 is a file containing the lines in both of the
 files with the changes that were made to both.
+
+What are the pros and cons of Git’s automatic
+merging vs. always doing merges manually?
+- Pros of auto merging are that is shows you
+what are the differences in the two files
+and the conflicts that they present. cons
+of that are that you might not notice the
+more subtle changes.
