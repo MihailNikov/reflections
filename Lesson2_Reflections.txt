@@ -28,3 +28,17 @@ How would branches help?
 -Branches would be helpful when you need to
 test changes before you add them to production
 environment.
+
+
+How do the diagrams help you visualize the
+branch structure?
+- Diagrams present the branch structure
+better than the messages that git provides
+
+
+What is the result of merging two branches
+together? Why do we represent it in the
+diagram the way we do?
+- the result of merging two branches together
+is a file containing the lines in both of the
+files with the changes that were made to both.
