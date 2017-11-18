@@ -19,3 +19,25 @@ the logic of your project, and because of that, it can
 probably make some confusing commits that would not
 be very useful to you if you wanted to go back and
 check some of the work you have done.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+	* Branch - branches happen on a single repository. You can
+  push and pull branches, to different repositories, but when
+  you create one, you create it on a single repository.
+	* Clone - cloning is taking an existing repository, and
+  making another one just like it. The thing here is that
+  when you clone a repository, it becomes completely separate
+  from the original, and any changes you make to the original,
+  will not be applied to the clone repository.
+	* Fork - a fork is done in github. When you fork someone
+  else's repository to your name, you get a copy of the
+  original repository under your name. This copy gets
+  updated every time the original repository is updated.
+  You can clone your fork localy and make changes to your
+  copy and it will not affect the original repository.
+  If you want the changes you have made to your repository
+  to be applied to the original repository, you have to
+  make a pull request to the original repository(the one
+  you do not own). This pull request will have to be approved
+  by the owner of the original repository.
