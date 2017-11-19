@@ -58,3 +58,11 @@ When would you use one instead of another?
 	the changes. This would require no knowledge about GitHub
 	and git command. However, it would make everyone's work
 	harder because this method is prone to many errors.
+
+
+	When would you want to make changes in a separate branch
+	rather than directly in master? What benefits does each
+	approach have?
+	- You would want to make changes on a separate branch
+	whenever you are developing a new feature, and you are
+	sure that your code will break at some point.
