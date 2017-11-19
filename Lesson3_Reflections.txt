@@ -41,3 +41,10 @@ When would you use one instead of another?
   make a pull request to the original repository(the one
   you do not own). This pull request will have to be approved
   by the owner of the original repository.
+
+
+
+	What is the benefit of having a copy of the last known
+	state of the remote stored locally?
+	-The benefit is, probably, that you can work on it
+	and make change offline.
