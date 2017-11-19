@@ -48,3 +48,13 @@ When would you use one instead of another?
 	state of the remote stored locally?
 	-The benefit is, probably, that you can work on it
 	and make change offline.
+
+
+	How would you collaborate without using Git or GitHub?
+	What would be easier, and what would be harder?
+	- If I did not have github,I would probably save different
+	version of my file every time I make a change and add my
+	name to the file, so that everyone knows it was me who made
+	the changes. This would require no knowledge about GitHub
+	and git command. However, it would make everyone's work
+	harder because this method is prone to many errors.
